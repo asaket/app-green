@@ -1,4 +1,4 @@
 <?php
-echo "VERSION: GREEN, POD IP: ".$_SERVER['SERVER_ADDR'];
+echo "VERSION 1: GREEN, POD IP: ".$_SERVER['SERVER_ADDR'];
 // comment0
 ?>
